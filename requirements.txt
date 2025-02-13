@@ -1,1 +1,3 @@
-streamlit
+pandas
+openpyxl  # 处理 Excel 文件
+streamlit  # 用于构建 Web 应用
